@@ -4,13 +4,13 @@
 ---
 
 ## Table of Contents
-1. [Mathematical Foundations: MDPs & Dynamic Programming](#1-mathematical-foundations)
-2. [Core RL Algorithms: Value-Based Learning](#2-core-rl-algorithms)
-3. [Generalization & Supervised Learning Principles](#3-generalization)
-4. [Function Approximation & Neural Networks](#4-function-approximation)
-5. [Deep Reinforcement Learning](#5-deep-rl)
-6. [Planning: Monte Carlo Tree Search](#6-planning)
-7. [Bandits: Exploration-Exploitation Tradeoffs](#7-bandits)
+1. [Mathematical Foundations: MDPs & Dynamic Programming](#1-mathematical-foundations-mdps--dynamic-programming)
+2. [Core RL Algorithms: Value-Based Learning](#2-core-rl-algorithms-value-based-learning)
+3. [Generalization & Supervised Learning Principles](#3-generalization-in-rl)
+4. [Function Approximation & Neural Networks](#4-function-approximation--neural-networks)
+5. [Deep Reinforcement Learning](#5-deep-reinforcement-learning)
+6. [Planning: Monte Carlo Tree Search](#6-planning-monte-carlo-tree-search-mcts)
+7. [Bandits: Exploration-Exploitation Tradeoffs](#7-bandits-exploration-exploitation-tradeoff)
 8. [Advanced Topics: Multi-Agent, Meta-Learning, Policy Optimization](#8-advanced-topics)
 9. [Real-World Applications: LLMs, Health, Robotics](#9-real-world-applications)
 

@@ -4,16 +4,16 @@
 ---
 
 ## Table of Contents
-1. [Advanced MDP Theory & Foundations](#1-advanced-mdp-theory)
-2. [Convergence Analysis & Sample Complexity](#2-convergence-analysis)
-3. [Regret Bounds & Bandit Algorithms](#3-regret-bounds-bandits)
-4. [Advanced Value-Based Methods](#4-advanced-value-methods)
-5. [Policy Gradient Methods: Theory & Practice](#5-policy-gradient)
-6. [Modern Deep RL: Stability & Generalization](#6-deep-rl-modern)
-7. [Model-Based RL & Planning](#7-model-based-rl)
-8. [Offline RL & Batch Learning](#8-offline-rl)
-9. [Multi-Agent RL & Game-Theoretic Perspectives](#9-multi-agent-rl)
-10. [Meta-RL & Transfer Learning](#10-meta-rl)
+1. [Advanced MDP Theory & Foundations](#1-advanced-mdp-theory--foundations))
+2. [Convergence Analysis & Sample Complexity](#2-convergence-analysis--sample-complexity)
+3. [Regret Bounds & Bandit Algorithms](#3-regret-bounds--bandit-algorithms)
+4. [Advanced Value-Based Methods](#4-advanced-value-based-methods)
+5. [Policy Gradient Methods: Theory & Practice](#5-policy-gradient-methods-theory--practice)
+6. [Modern Deep RL: Stability & Generalization](#6-modern-deep-rl-stability--generalization)
+7. [Model-Based RL & Planning](#7-model-based-rl--planning)
+8. [Offline RL & Batch Learning](#8-offline-rl--batch-learning)
+9. [Multi-Agent RL & Game-Theoretic Perspectives](#9-multi-agent-rl--game-theory)
+10. [Meta-RL & Transfer Learning](#10-meta-rl--transfer-learning)
 
 ---
 

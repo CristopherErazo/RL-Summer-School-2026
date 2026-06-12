@@ -35,6 +35,9 @@
 | Georgia Chalvatzaki | Robotics | Technische Universität Darmstadt |
 | Antonin Raffin | Deep RL I & II (practical) | German Aerospace Center |
 
+
+Find the high-level lecture summaries and in-depth technical notes here: [Lecture Summary](./summary/lectures_summary.md) · [Technical Summary](./summary/technical_summary.md).
+
 ---
 
 ## 🗂️ Repository Structure
@@ -54,6 +57,10 @@ rl-summer-school-2026/
 ├── final-quiz/
 │   └── prep-notes.md
 │
+├── summary/
+│   ├── lectures_summary.md  # High-level overview of all lectures
+│   └── technical_summary.md # Deep dive into key technical concepts covered in the program
+│
 ├── requirements.txt
 ├── pyproject.toml
 ├── .gitignore
@@ -61,7 +68,7 @@ rl-summer-school-2026/
 ```
 
 ---
-## Installation
+## 💾 Installation
 To set up the environment for the RL Summer School tutorials, follow these steps:
 
 1. **Clone the Repository**:
